@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\Locacoes.Domain.csproj": {}
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Domain\\Locacoes.Domain.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\Locacoes.Domain.csproj": {
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Domain\\Locacoes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\Locacoes.Domain.csproj",
+        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Domain\\Locacoes.Domain.csproj",
         "projectName": "Locacoes.Domain",
-        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\Locacoes.Domain.csproj",
+        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Domain\\Locacoes.Domain.csproj",
         "packagesPath": "C:\\Users\\yurisanford_forteste\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\obj\\",
+        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yurisanford_forteste\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj": {
-                "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj"
+              "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj": {
+                "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj": {
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj",
+        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj",
         "projectName": "Locacoes.Service",
-        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj",
+        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj",
         "packagesPath": "C:\\Users\\yurisanford_forteste\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\obj\\",
+        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yurisanford_forteste\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\Locacoes.Api.csproj": {}
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Locacoes.Api.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\Locacoes.Api.csproj": {
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Locacoes.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\Locacoes.Api.csproj",
+        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Locacoes.Api.csproj",
         "projectName": "Locacoes.Api",
-        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\Locacoes.Api.csproj",
+        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Locacoes.Api.csproj",
         "packagesPath": "C:\\Users\\yurisanford_forteste\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\obj\\",
+        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yurisanford_forteste\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,34 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.OData": {
+              "target": "Package",
+              "version": "[7.7.6, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

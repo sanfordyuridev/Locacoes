@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Infra\\Locacoes.Infra.csproj",
+      "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\Locacoes.Infra.csproj",
       "projectName": "Locacoes.Infra",
-      "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Infra\\Locacoes.Infra.csproj",
+      "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\Locacoes.Infra.csproj",
       "packagesPath": "C:\\Users\\yurisanford_forteste\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Infra\\obj\\",
+      "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yurisanford_forteste\\AppData\\Roaming\\NuGet\\NuGet.Config",

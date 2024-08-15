@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj": {}
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj": {
+    "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
+        "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
         "projectName": "Locacoes.NUnitTest",
-        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
+        "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
         "packagesPath": "C:\\Users\\yurisanford_forteste\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.NUnitTest\\obj\\",
+        "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yurisanford_forteste\\AppData\\Roaming\\NuGet\\NuGet.Config",

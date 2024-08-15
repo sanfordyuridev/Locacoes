@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\",
+  "WorkspaceRootPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51E91631-753C-4ED8-B402-0A4FB7C48A38}|Locacoes.Domain\\Locacoes.Domain.csproj|c:\\projetos\\yuri_pessoal\\locacoesweb\\locacoes.domain\\locacoes.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{51E91631-753C-4ED8-B402-0A4FB7C48A38}|Locacoes.Domain\\Locacoes.Domain.csproj|solutionrelative:locacoes.domain\\locacoes.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesweb\\locacoes.api\\locacoes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\locacoes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\locacoes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Locacoes.Domain",
-              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\Locacoes.Domain.csproj",
-              "RelativeDocumentMoniker": "Locacoes.Domain\\Locacoes.Domain.csproj",
-              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Domain\\Locacoes.Domain.csproj",
-              "RelativeToolTip": "Locacoes.Domain\\Locacoes.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T19:41:09.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Locacoes.Api",
-              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\Locacoes.Api.csproj",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Locacoes.Api.csproj",
               "RelativeDocumentMoniker": "Locacoes.Api\\Locacoes.Api.csproj",
-              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Api\\Locacoes.Api.csproj",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Locacoes.Api.csproj",
               "RelativeToolTip": "Locacoes.Api\\Locacoes.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T19:40:59.156Z",
+              "WhenOpened": "2024-08-15T21:28:21.56Z",
               "EditorCaption": ""
             }
           ]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj",
+      "projectUniqueName": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj",
       "projectName": "Locacoes.Service",
-      "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\Locacoes.Service.csproj",
+      "projectPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\Locacoes.Service.csproj",
       "packagesPath": "C:\\Users\\yurisanford_forteste\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesWeb\\Locacoes.Service\\obj\\",
+      "outputPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yurisanford_forteste\\AppData\\Roaming\\NuGet\\NuGet.Config",
