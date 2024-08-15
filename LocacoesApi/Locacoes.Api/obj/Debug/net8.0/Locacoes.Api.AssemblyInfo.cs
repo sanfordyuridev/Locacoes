@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Locacoes.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a0ceef0322e3fd9fe3207e2e1b68d4a280593d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa36e7a580daa0cf34a5deb5a51de7416c3d4fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Locacoes.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Locacoes.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
