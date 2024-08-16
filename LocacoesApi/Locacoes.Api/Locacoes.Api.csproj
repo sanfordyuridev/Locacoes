@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Configuracoes\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Dependecies\" />
     <Folder Include="Filter\" />
     <Folder Include="Middleware\" />
     <Folder Include="Secutiry\" />
@@ -25,6 +23,11 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Locacoes.Infra\Locacoes.Infra.csproj" />
+    <ProjectReference Include="..\Locacoes.Service\Locacoes.Service.csproj" />
   </ItemGroup>
 
 </Project>

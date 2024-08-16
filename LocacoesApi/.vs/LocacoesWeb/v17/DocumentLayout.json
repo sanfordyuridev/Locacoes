@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EC23322-7016-4C8A-B676-BB953927A610}|Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.nunittest\\locacoes.nunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9EC23322-7016-4C8A-B676-BB953927A610}|Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj|solutionrelative:locacoes.nunittest\\locacoes.nunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\dependecies\\injectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\dependecies\\injectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\dependecies\\injectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\dependecies\\injectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\dependecies\\injectordependecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\dependecies\\injectordependecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBF6F2-BE71-4532-AF77-E979BAB0BD82}|Locacoes.Service\\Locacoes.Service.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.service\\automapper\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EBF6F2-BE71-4532-AF77-E979BAB0BD82}|Locacoes.Service\\Locacoes.Service.csproj|solutionrelative:locacoes.service\\automapper\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066CB80-C8B5-47E2-AC2E-449C0DEF5B27}|Locacoes.Infra\\Locacoes.Infra.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.infra\\context\\designlocacoescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066CB80-C8B5-47E2-AC2E-449C0DEF5B27}|Locacoes.Infra\\Locacoes.Infra.csproj|solutionrelative:locacoes.infra\\context\\designlocacoescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066CB80-C8B5-47E2-AC2E-449C0DEF5B27}|Locacoes.Infra\\Locacoes.Infra.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.infra\\context\\locacoescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066CB80-C8B5-47E2-AC2E-449C0DEF5B27}|Locacoes.Infra\\Locacoes.Infra.csproj|solutionrelative:locacoes.infra\\context\\locacoescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|c:\\projetos\\yuri_pessoal\\locacoesapi\\locacoes.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90D2663E-01AF-44DD-B006-49E446DD22E0}|Locacoes.Api\\Locacoes.Api.csproj|solutionrelative:locacoes.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +55,132 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Locacoes.NUnitTest",
-              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
-              "RelativeDocumentMoniker": "Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
-              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
-              "RelativeToolTip": "Locacoes.NUnitTest\\Locacoes.NUnitTest.csproj",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Locacoes.Api\\Startup.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Startup.cs",
+              "RelativeToolTip": "Locacoes.Api\\Startup.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:22:28.442Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InjectorService.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Dependecies\\InjectorService.cs",
+              "RelativeDocumentMoniker": "Locacoes.Api\\Dependecies\\InjectorService.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Dependecies\\InjectorService.cs",
+              "RelativeToolTip": "Locacoes.Api\\Dependecies\\InjectorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:43:26.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InjectorRepository.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Dependecies\\InjectorRepository.cs",
+              "RelativeDocumentMoniker": "Locacoes.Api\\Dependecies\\InjectorRepository.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Dependecies\\InjectorRepository.cs",
+              "RelativeToolTip": "Locacoes.Api\\Dependecies\\InjectorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:42:44.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InjectorDependecies.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Dependecies\\InjectorDependecies.cs",
+              "RelativeDocumentMoniker": "Locacoes.Api\\Dependecies\\InjectorDependecies.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Dependecies\\InjectorDependecies.cs",
+              "RelativeToolTip": "Locacoes.Api\\Dependecies\\InjectorDependecies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:42:09.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapping.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\AutoMapper\\AutoMapping.cs",
+              "RelativeDocumentMoniker": "Locacoes.Service\\AutoMapper\\AutoMapping.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Service\\AutoMapper\\AutoMapping.cs",
+              "RelativeToolTip": "Locacoes.Service\\AutoMapper\\AutoMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:27:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignLocacoesContext.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\Context\\DesignLocacoesContext.cs",
+              "RelativeDocumentMoniker": "Locacoes.Infra\\Context\\DesignLocacoesContext.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\Context\\DesignLocacoesContext.cs",
+              "RelativeToolTip": "Locacoes.Infra\\Context\\DesignLocacoesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:23:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocacoesContext.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\Context\\LocacoesContext.cs",
+              "RelativeDocumentMoniker": "Locacoes.Infra\\Context\\LocacoesContext.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Infra\\Context\\LocacoesContext.cs",
+              "RelativeToolTip": "Locacoes.Infra\\Context\\LocacoesContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T21:38:56.983Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:23:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Locacoes.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Locacoes.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T19:22:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Locacoes.Api\\appsettings.json",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\appsettings.json",
+              "RelativeToolTip": "Locacoes.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T19:22:46.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Locacoes.Api\\Program.cs",
+              "ToolTip": "C:\\projetos\\yuri_pessoal\\LocacoesApi\\Locacoes.Api\\Program.cs",
+              "RelativeToolTip": "Locacoes.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:22:26.789Z",
               "EditorCaption": ""
             }
           ]

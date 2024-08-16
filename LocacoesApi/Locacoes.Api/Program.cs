@@ -1,6 +1,29 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using Locacoes.Api;
+using Locacoes.Infra.Context;
+using Microsoft.EntityFrameworkCore;
 
-app.MapGet("/", () => "Hello World!");
+namespace Caronte.Api
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            IHost host = CreateHostBuilder(args).Build();
 
-app.Run();
+            using (IServiceScope scope = host.Services.CreateScope())
+            {
+                LocacoesContext db = scope.ServiceProvider.GetRequiredService<LocacoesContext>();
+                db.Database.Migrate();
+            }
+
+            host.Run();
+        }
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
+    }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Locacoes.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa36e7a580daa0cf34a5deb5a51de7416c3d4fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9cc2e84d1c124ab8605927b44b554b81f0c6e2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Locacoes.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Locacoes.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
